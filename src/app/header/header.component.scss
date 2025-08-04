@@ -1,4 +1,7 @@
-.navbar {
+header {
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(173, 178, 203);
+  .navbar {
   background-color: rgba(0, 0, 0, 0) !important;
   .container {
     background-color: rgba(0, 0, 0, 0) !important;
@@ -15,4 +18,5 @@
       color: white !important;
     }
   }
+}
 }
